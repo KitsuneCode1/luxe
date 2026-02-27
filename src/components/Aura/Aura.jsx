@@ -4,7 +4,7 @@ import { Clock, Globe, Shield, TrendingUp } from 'lucide-react';
 const Aura = () => {
   return (
     <>
-      <section id='aura' className='container mt-20 flex gap-6'>
+      <section id='aura' className='container mt-20 flex flex-col md:flex-row gap-6'>
         <div className="p-6 bg-white border rounded-xl shadow-md">
             <h1 className='text-3xl font-bold font-serif'>AURA Intelligence Suite</h1>
             <p className='text-gray-500 mt-4 font-semibold tracking-wide'>AURA is Luxe's internal planning + production intelligence layer — designed to standardize delivery, increase margin, and make outcomes measurable. This is how Luxe scales like a corporation: systems + data + repeatability.</p>

@@ -11,7 +11,7 @@ const Packages = () => {
             Designed to sell like a corporation: standardized deliverables,
             measurable outcomes, clear tiers.
           </p>
-          <div className="flex gap-4 w-full mt-8">
+          <div className="flex flex-col md:flex-row gap-4 w-full mt-8">
             <div className="border border-primary/12 rounded-xl p-4 bg-primary/[0.02] w-full md:w-[(100//3)%]">
               <h4 className="text-primary font-bold tracking-wider text-sm">
                 EXECUTIVE SUITE

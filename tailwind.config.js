@@ -17,7 +17,16 @@ export default {
         primary: "#a1763a",
         secondary: "#ebe8e5",
         secondaryBorder: "#d9d4ce",
-        background: "#f8f5f2"
+        primaryBorder: "#a1763a",
+        border: "#e8e6e3",
+        background: "#f8f5f2",
+        input: "#d6d1cd",
+        foreground: "#000000",
+        muted: "#EEECE8",
+        mutedForeground: "#666666",
+        secondaryForeground: "#262626",
+        primaryForeground: "#ffffff",
+        ring: "#D7D3CD",
       }
     },
   },
