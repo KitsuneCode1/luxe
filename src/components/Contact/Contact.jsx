@@ -11,11 +11,7 @@ const Contact = () => {
             For bookings, partnerships, and corporate requests, reach out and
             we'll respond with next steps.
           </p>
-<<<<<<< HEAD
           <div className="border-t mt-6 pt-4 grid gap-2 text-[.85rem] md:text-base">
-=======
-          <div className="border-t mt-6 pt-4 grid gap-2 text-sm md:text-base">
->>>>>>> e62c81463dc4ef8c311e996fe3233f381728c181
             <div className="flex gap-3 items-center">
               <Mail
                 className="text-primary font-thin"
