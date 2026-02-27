@@ -6,7 +6,7 @@ const Aura = () => {
     <>
       <section id='aura' className='container mt-20 flex flex-col md:flex-row gap-6'>
         <div className="p-6 bg-white border rounded-xl shadow-md">
-            <h1 className='text-3xl font-bold font-serif'>AURA Intelligence Suite</h1>
+            <h1 className='text-3xl font-bold'>AURA Intelligence Suite</h1>
             <p className='text-gray-500 mt-4 font-semibold tracking-wide'>AURA is Luxe's internal planning + production intelligence layer — designed to standardize delivery, increase margin, and make outcomes measurable. This is how Luxe scales like a corporation: systems + data + repeatability.</p>
             <div className="grid gap-4 mt-5">
                 <div className="flex gap-3 border border-primary/12 rounded-xl p-4 bg-primary/[0.02] transition-colors duration-200">
@@ -53,12 +53,12 @@ const Aura = () => {
 
         <div className='flex flex-col gap-6'>
             <div className="p-6 bg-white border rounded-xl shadow-md">
-                <h1 className='text-xl font-bold font-serif'>Why this is "Investor-Ready"</h1>
+                <h1 className='text-xl font-bold'>Why this is "Investor-Ready"</h1>
                 <p className='text-gray-500 mt-2 font-semibold'>Investors don't fund "hours." They fund scalable systems. AURA positions Luxe as a platform: standardized packages, predictable ops, measurable KPIs, and expansion into multi-market delivery.</p>
             </div>
 
             <div className="p-6 bg-white border rounded-xl shadow-md">
-                <h1 className='text-xl font-bold font-serif'>Scalable Revenue Paths</h1>
+                <h1 className='text-xl font-bold'>Scalable Revenue Paths</h1>
                 <p className='text-gray-500 mt-2 font-semibold'>Corporate retainers, high-volume partnerships, destination operations, premium add-ons (content capture, brand activations, VIP concierge).</p>
 
                 <div className="grid grid-cols-2 gap-2 mt-4">

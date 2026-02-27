@@ -6,12 +6,12 @@ const Contact = () => {
     <>
       <section id="contact" className="container mt-20 gap-6 flex flex-col md:flex-row w-full">
         <div className="p-6 bg-white border rounded-xl shadow-md w-full md:w-[60%]">
-          <h1 className="text-2xl font-bold font-serif">Contact</h1>
+          <h1 className="text-2xl font-bold">Contact</h1>
           <p className="text-[1.1rem] text-gray-500 mt-1">
             For bookings, partnerships, and corporate requests, reach out and
             we'll respond with next steps.
           </p>
-          <div className="border-t mt-6 pt-4 grid gap-2">
+          <div className="border-t mt-6 pt-4 grid gap-2 text-[.85rem] md:text-base">
             <div className="flex gap-3 items-center">
               <Mail
                 className="text-primary font-thin"
@@ -75,7 +75,7 @@ const Contact = () => {
 
         <div className="flex flex-col gap-6 col-span-1 w-full md:w-[40%]">
           <div className="p-6 bg-white border rounded-xl shadow-md">
-            <h1 className="text-xl font-bold font-serif">
+            <h1 className="text-xl font-bold">
               Investor-Ready Proof
             </h1>
             <p className="text-gray-500 mt-2 text-md">
@@ -84,7 +84,7 @@ const Contact = () => {
           </div>
 
           <div className="p-6 bg-white border rounded-xl shadow-md">
-            <h1 className="text-xl font-bold font-serif">
+            <h1 className="text-xl font-bold">
               Next: Build a Corporate Deck
             </h1>
             <p className="text-gray-500 mt-2 text-md">

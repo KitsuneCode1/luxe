@@ -25,7 +25,7 @@ const Hero = () => {
             </span>
           </div>
 
-          <h1 className="font-serif text-[clamp(28px,4.2vw,52px)] leading-[1.05] mt-4 mb-3 font-bold text-foreground">
+          <h1 className="text-[clamp(28px,4.2vw,52px)] leading-[1.05] mt-4 mb-3 font-bold text-foreground">
             Luxury events, engineered like a corporation.
           </h1>
           <p className="text-muted-foreground text-gray-500 leading-relaxed max-w-[80ch]">

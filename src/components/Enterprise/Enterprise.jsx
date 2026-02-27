@@ -9,7 +9,7 @@ const Enterprise = () => {
     <>
       <section id="enterprise" className="container mt-20">
         <div className="p-6 bg-white border rounded-xl shadow-md">
-          <h1 className="text-2xl font-bold font-serif">
+          <h1 className="text-2xl font-bold">
             Enterprise Proposal Request
           </h1>
           <p className="text-[1.1rem] text-gray-500 mt-1">

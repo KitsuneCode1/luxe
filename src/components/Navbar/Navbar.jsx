@@ -1,23 +1,18 @@
 import React from "react";
 import { Link } from "react-router-dom";
+import logo from '../../assets/logo.png'
 
 const Navbar = () => {
   return (
     <>
       <nav className="sticky top-0 left-0 right-0 z-50 transition-all duration-300 backdrop-blur-md">
         <div className="container">
-          <div className="flex items-center justify-between py-3">
+          <div className="flex items-center justify-between py-0">
             <a
               className="flex gap-4 items-center justify-center cursor-pointer"
               href="#home"
             >
-              <div className="w-9 h-9 rounded-lg border border-primary/30 bg-gradient-to-br from-primary/30 to-white/5 shadow-lg shadow-black/20 "></div>
-              <div className="flex flex-col items-center">
-                <p className="tracking-wide font-bold text-sm mb-0">LUXE</p>
-                <p className="text-gray-500 font-semibold text-xs mt-0">
-                  Event Designs by Sarah
-                </p>
-              </div>
+              <img src={logo} alt="logo" className="w-20 h-20" />
             </a>
 
             <div className="hidden md:flex items-center gap-1 text-base ">

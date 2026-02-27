@@ -6,7 +6,7 @@ const Packages = () => {
     <>
       <section id="packages" className="container mt-20">
         <div className="p-8 bg-white border rounded-xl shadow-md">
-          <h1 className="text-2xl font-bold font-serif">Corporate Packages</h1>
+          <h1 className="text-2xl font-bold">Corporate Packages</h1>
           <p className="text-[1.1rem] text-gray-500 mt-1">
             Designed to sell like a corporation: standardized deliverables,
             measurable outcomes, clear tiers.
@@ -16,7 +16,7 @@ const Packages = () => {
               <h4 className="text-primary font-bold tracking-wider text-sm">
                 EXECUTIVE SUITE
               </h4>
-              <h1 className="text-xl font-serif font-bold mt-3">
+              <h1 className="text-xl font-bold mt-3">
                 Leadership Events
               </h1>
               <div className="grid gap-2 mt-2">
@@ -49,7 +49,7 @@ const Packages = () => {
               <h4 className="text-primary font-bold tracking-wider text-sm">
                 SIGNATURE CORPORATE
               </h4>
-              <h1 className="text-xl font-serif font-bold mt-3">
+              <h1 className="text-xl font-bold mt-3">
                 Brand Experiences
               </h1>
               <div className="grid gap-4 mt-2">
@@ -79,7 +79,7 @@ const Packages = () => {
               <h4 className="text-primary font-bold tracking-wider text-sm">
                 GLOBAL DESTINATION
               </h4>
-              <h1 className="text-xl font-serif font-bold mt-4">
+              <h1 className="text-xl font-bold mt-4">
                 Travel & VIP Ops
               </h1>
               <div className="grid gap-4 mt-2">
